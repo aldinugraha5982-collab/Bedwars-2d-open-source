@@ -1,0 +1,2796 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineSystem.cmake:220 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26300 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeMinGWFindMake.cmake:5 (find_program)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MAKE_PROGRAM"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mingw32-make.exe"
+    candidate_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/REGISTRY-NOTFOUND/bin/"
+      - "c:/MinGW/bin/"
+      - "/MinGW/bin/"
+      - "/REGISTRY-NOTFOUND/MinGW/bin/"
+    searched_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/mingw32-make.exe.com"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/mingw32-make.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/mingw32-make.exe.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/mingw32-make.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/mingw32-make.exe.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/mingw32-make.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/mingw32-make.exe.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/mingw32-make.exe"
+      - "C:/Windows/System32/mingw32-make.exe.com"
+      - "C:/Windows/System32/mingw32-make.exe"
+      - "C:/Windows/mingw32-make.exe.com"
+      - "C:/Windows/mingw32-make.exe"
+      - "C:/Windows/System32/wbem/mingw32-make.exe.com"
+      - "C:/Windows/System32/wbem/mingw32-make.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mingw32-make.exe.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mingw32-make.exe"
+      - "C:/Windows/System32/OpenSSH/mingw32-make.exe.com"
+      - "C:/Windows/System32/OpenSSH/mingw32-make.exe"
+      - "C:/Program Files/dotnet/mingw32-make.exe.com"
+      - "C:/Program Files/dotnet/mingw32-make.exe"
+      - "D:/LOLA ELVINA/CMake/bin/mingw32-make.exe.com"
+      - "D:/LOLA ELVINA/CMake/bin/mingw32-make.exe"
+      - "D:/LOLA ELVINA/Git/cmd/mingw32-make.exe.com"
+      - "D:/LOLA ELVINA/Git/cmd/mingw32-make.exe"
+      - "D:/LOLA ELVINA/nodejs/mingw32-make.exe.com"
+      - "D:/LOLA ELVINA/nodejs/mingw32-make.exe"
+      - "C:/Program Files/WSL/mingw32-make.exe.com"
+      - "C:/Program Files/WSL/mingw32-make.exe"
+      - "C:/Users/asus/.cargo/bin/mingw32-make.exe.com"
+      - "C:/Users/asus/.cargo/bin/mingw32-make.exe"
+      - "C:/Users/asus/.local/bin/mingw32-make.exe.com"
+      - "C:/Users/asus/.local/bin/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/mingw32-make.exe.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/mingw32-make.exe.com"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Local/Unity/bin/mingw32-make.exe.com"
+      - "C:/Users/asus/AppData/Local/Unity/bin/mingw32-make.exe"
+      - "C:/Users/asus/.dotnet/tools/mingw32-make.exe.com"
+      - "C:/Users/asus/.dotnet/tools/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Local/Python/bin/mingw32-make.exe.com"
+      - "C:/Users/asus/AppData/Local/Python/bin/mingw32-make.exe"
+      - "D:/AldiNugraha/VS project/flutter/bin/mingw32-make.exe.com"
+      - "D:/AldiNugraha/VS project/flutter/bin/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Roaming/npm/mingw32-make.exe.com"
+      - "C:/Users/asus/AppData/Roaming/npm/mingw32-make.exe"
+      - "D:/.cargo/bin/mingw32-make.exe.com"
+      - "D:/.cargo/bin/mingw32-make.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompiler.cmake:115 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:71 (_cmake_find_compiler_path)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "g++"
+    candidate_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/g++.com"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/g++.exe"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/g++"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/g++.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/g++.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/g++"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/g++.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/g++.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/g++"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/g++.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/g++.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/g++"
+      - "C:/Windows/System32/g++.com"
+      - "C:/Windows/System32/g++.exe"
+      - "C:/Windows/System32/g++"
+      - "C:/Windows/g++.com"
+      - "C:/Windows/g++.exe"
+      - "C:/Windows/g++"
+      - "C:/Windows/System32/wbem/g++.com"
+      - "C:/Windows/System32/wbem/g++.exe"
+      - "C:/Windows/System32/wbem/g++"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/g++.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/g++.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/g++"
+      - "C:/Windows/System32/OpenSSH/g++.com"
+      - "C:/Windows/System32/OpenSSH/g++.exe"
+      - "C:/Windows/System32/OpenSSH/g++"
+      - "C:/Program Files/dotnet/g++.com"
+      - "C:/Program Files/dotnet/g++.exe"
+      - "C:/Program Files/dotnet/g++"
+      - "D:/LOLA ELVINA/CMake/bin/g++.com"
+      - "D:/LOLA ELVINA/CMake/bin/g++.exe"
+      - "D:/LOLA ELVINA/CMake/bin/g++"
+      - "D:/LOLA ELVINA/Git/cmd/g++.com"
+      - "D:/LOLA ELVINA/Git/cmd/g++.exe"
+      - "D:/LOLA ELVINA/Git/cmd/g++"
+      - "D:/LOLA ELVINA/nodejs/g++.com"
+      - "D:/LOLA ELVINA/nodejs/g++.exe"
+      - "D:/LOLA ELVINA/nodejs/g++"
+      - "C:/Program Files/WSL/g++.com"
+      - "C:/Program Files/WSL/g++.exe"
+      - "C:/Program Files/WSL/g++"
+      - "C:/Users/asus/.cargo/bin/g++.com"
+      - "C:/Users/asus/.cargo/bin/g++.exe"
+      - "C:/Users/asus/.cargo/bin/g++"
+      - "C:/Users/asus/.local/bin/g++.com"
+      - "C:/Users/asus/.local/bin/g++.exe"
+      - "C:/Users/asus/.local/bin/g++"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/g++.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/g++.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/g++"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/g++.com"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/g++.exe"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/g++"
+      - "C:/Users/asus/AppData/Local/Unity/bin/g++.com"
+      - "C:/Users/asus/AppData/Local/Unity/bin/g++.exe"
+      - "C:/Users/asus/AppData/Local/Unity/bin/g++"
+      - "C:/Users/asus/.dotnet/tools/g++.com"
+      - "C:/Users/asus/.dotnet/tools/g++.exe"
+      - "C:/Users/asus/.dotnet/tools/g++"
+      - "C:/Users/asus/AppData/Local/Python/bin/g++.com"
+      - "C:/Users/asus/AppData/Local/Python/bin/g++.exe"
+      - "C:/Users/asus/AppData/Local/Python/bin/g++"
+      - "D:/AldiNugraha/VS project/flutter/bin/g++.com"
+      - "D:/AldiNugraha/VS project/flutter/bin/g++.exe"
+      - "D:/AldiNugraha/VS project/flutter/bin/g++"
+      - "C:/Users/asus/AppData/Roaming/npm/g++.com"
+      - "C:/Users/asus/AppData/Roaming/npm/g++.exe"
+      - "C:/Users/asus/AppData/Roaming/npm/g++"
+      - "D:/.cargo/bin/g++.com"
+      - "D:/.cargo/bin/g++.exe"
+      - "D:/.cargo/bin/g++"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:541 (find_file)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:583 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/"
+    found: "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+      
+      The CXX compiler identification is GNU, found in:
+        C:/Users/asus/Downloads/vs code/build/CMakeFiles/4.5.0-rc1/CompilerIdCXX/a.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ar"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ar.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RANLIB"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ranlib"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ranlib.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_STRIP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "strip"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/strip.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/strip.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "ld"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ld.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/ld.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_NM"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "nm"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/nm.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/nm.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJDUMP"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objdump"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/objdump.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/objdump.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_OBJCOPY"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "objcopy"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/objcopy.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/objcopy.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_READELF"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "readelf"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/readelf.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/readelf.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_DLLTOOL"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "dlltool"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/dlltool.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/dlltool.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_ADDR2LINE"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "addr2line"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/addr2line.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/addr2line.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeFindBinUtils.cmake:249 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:207 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_TAPI"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "tapi"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/tapi.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/tapi.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/tapi"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/tapi.com"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/tapi.exe"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/tapi"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/tapi"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/tapi.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/tapi.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/tapi"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/tapi.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/tapi.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/tapi"
+      - "C:/Windows/System32/tapi.com"
+      - "C:/Windows/System32/tapi.exe"
+      - "C:/Windows/System32/tapi"
+      - "C:/Windows/tapi.com"
+      - "C:/Windows/tapi.exe"
+      - "C:/Windows/tapi"
+      - "C:/Windows/System32/wbem/tapi.com"
+      - "C:/Windows/System32/wbem/tapi.exe"
+      - "C:/Windows/System32/wbem/tapi"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/tapi"
+      - "C:/Windows/System32/OpenSSH/tapi.com"
+      - "C:/Windows/System32/OpenSSH/tapi.exe"
+      - "C:/Windows/System32/OpenSSH/tapi"
+      - "C:/Program Files/dotnet/tapi.com"
+      - "C:/Program Files/dotnet/tapi.exe"
+      - "C:/Program Files/dotnet/tapi"
+      - "D:/LOLA ELVINA/CMake/bin/tapi.com"
+      - "D:/LOLA ELVINA/CMake/bin/tapi.exe"
+      - "D:/LOLA ELVINA/CMake/bin/tapi"
+      - "D:/LOLA ELVINA/Git/cmd/tapi.com"
+      - "D:/LOLA ELVINA/Git/cmd/tapi.exe"
+      - "D:/LOLA ELVINA/Git/cmd/tapi"
+      - "D:/LOLA ELVINA/nodejs/tapi.com"
+      - "D:/LOLA ELVINA/nodejs/tapi.exe"
+      - "D:/LOLA ELVINA/nodejs/tapi"
+      - "C:/Program Files/WSL/tapi.com"
+      - "C:/Program Files/WSL/tapi.exe"
+      - "C:/Program Files/WSL/tapi"
+      - "C:/Users/asus/.cargo/bin/tapi.com"
+      - "C:/Users/asus/.cargo/bin/tapi.exe"
+      - "C:/Users/asus/.cargo/bin/tapi"
+      - "C:/Users/asus/.local/bin/tapi.com"
+      - "C:/Users/asus/.local/bin/tapi.exe"
+      - "C:/Users/asus/.local/bin/tapi"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/tapi.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/tapi.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/tapi"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/tapi.com"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/tapi.exe"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/tapi"
+      - "C:/Users/asus/AppData/Local/Unity/bin/tapi.com"
+      - "C:/Users/asus/AppData/Local/Unity/bin/tapi.exe"
+      - "C:/Users/asus/AppData/Local/Unity/bin/tapi"
+      - "C:/Users/asus/.dotnet/tools/tapi.com"
+      - "C:/Users/asus/.dotnet/tools/tapi.exe"
+      - "C:/Users/asus/.dotnet/tools/tapi"
+      - "C:/Users/asus/AppData/Local/Python/bin/tapi.com"
+      - "C:/Users/asus/AppData/Local/Python/bin/tapi.exe"
+      - "C:/Users/asus/AppData/Local/Python/bin/tapi"
+      - "D:/AldiNugraha/VS project/flutter/bin/tapi.com"
+      - "D:/AldiNugraha/VS project/flutter/bin/tapi.exe"
+      - "D:/AldiNugraha/VS project/flutter/bin/tapi"
+      - "C:/Users/asus/AppData/Roaming/npm/tapi.com"
+      - "C:/Users/asus/AppData/Roaming/npm/tapi.exe"
+      - "C:/Users/asus/AppData/Roaming/npm/tapi"
+      - "D:/.cargo/bin/tapi.com"
+      - "D:/.cargo/bin/tapi.exe"
+      - "D:/.cargo/bin/tapi"
+      - "D:/VisualStudio/Microsoft VS Code/bin/tapi.com"
+      - "D:/VisualStudio/Microsoft VS Code/bin/tapi.exe"
+      - "D:/VisualStudio/Microsoft VS Code/bin/tapi"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/tapi.com"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/tapi.exe"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/tapi"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.com"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi.exe"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/Compiler/GNU-FindBinUtils.cmake:18 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:208 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_AR"
+    description: "A wrapper around 'ar' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ar-16.2"
+      - "gcc-ar-16"
+      - "gcc-ar16"
+      - "gcc-ar"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16.2.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16.2.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16.2"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar-16"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar16.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar16.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar16"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ar.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/Compiler/GNU-FindBinUtils.cmake:33 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCXXCompiler.cmake:208 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_CXX_COMPILER_RANLIB"
+    description: "A wrapper around 'ranlib' adding the appropriate '--plugin' option for the GCC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "gcc-ranlib-16.2"
+      - "gcc-ranlib-16"
+      - "gcc-ranlib16"
+      - "gcc-ranlib"
+    candidate_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+    searched_directories:
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16.2.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16.2.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16.2"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib-16"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib16.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib16.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib16"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/gcc-ranlib.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/Platform/Windows-GNU.cmake:167 (enable_language)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/Platform/Windows-GNU-CXX.cmake:2 (__windows_compiler_gnu)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "windres"
+      - "windres"
+    candidate_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/dotnet/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/Git/cmd/"
+      - "D:/LOLA ELVINA/nodejs/"
+      - "C:/Program Files/WSL/"
+      - "C:/Users/asus/.cargo/bin/"
+      - "C:/Users/asus/.local/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/"
+      - "C:/Users/asus/AppData/Local/Unity/bin/"
+      - "C:/Users/asus/.dotnet/tools/"
+      - "C:/Users/asus/AppData/Local/Python/bin/"
+      - "D:/AldiNugraha/VS project/flutter/bin/"
+      - "C:/Users/asus/AppData/Roaming/npm/"
+      - "D:/.cargo/bin/"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/"
+      - "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/"
+      - "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "D:/LOLA ELVINA/CMake/bin/"
+      - "D:/LOLA ELVINA/CMake/sbin/"
+      - "D:/LOLA ELVINA/CMake/"
+      - "C:/Program Files (x86)/BedwarsPC/bin/"
+      - "C:/Program Files (x86)/BedwarsPC/sbin/"
+      - "C:/Program Files (x86)/BedwarsPC/"
+    searched_directories:
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/windres.com"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/windres.exe"
+      - "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/bin/windres"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/windres.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/windres.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/windres"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/windres.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/windres.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/windres"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/windres.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/windres.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/windres"
+      - "C:/Windows/System32/windres.com"
+      - "C:/Windows/System32/windres.exe"
+      - "C:/Windows/System32/windres"
+      - "C:/Windows/windres.com"
+      - "C:/Windows/windres.exe"
+      - "C:/Windows/windres"
+      - "C:/Windows/System32/wbem/windres.com"
+      - "C:/Windows/System32/wbem/windres.exe"
+      - "C:/Windows/System32/wbem/windres"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/windres.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/windres.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/windres"
+      - "C:/Windows/System32/OpenSSH/windres.com"
+      - "C:/Windows/System32/OpenSSH/windres.exe"
+      - "C:/Windows/System32/OpenSSH/windres"
+      - "C:/Program Files/dotnet/windres.com"
+      - "C:/Program Files/dotnet/windres.exe"
+      - "C:/Program Files/dotnet/windres"
+      - "D:/LOLA ELVINA/CMake/bin/windres.com"
+      - "D:/LOLA ELVINA/CMake/bin/windres.exe"
+      - "D:/LOLA ELVINA/CMake/bin/windres"
+      - "D:/LOLA ELVINA/Git/cmd/windres.com"
+      - "D:/LOLA ELVINA/Git/cmd/windres.exe"
+      - "D:/LOLA ELVINA/Git/cmd/windres"
+      - "D:/LOLA ELVINA/nodejs/windres.com"
+      - "D:/LOLA ELVINA/nodejs/windres.exe"
+      - "D:/LOLA ELVINA/nodejs/windres"
+      - "C:/Program Files/WSL/windres.com"
+      - "C:/Program Files/WSL/windres.exe"
+      - "C:/Program Files/WSL/windres"
+      - "C:/Users/asus/.cargo/bin/windres.com"
+      - "C:/Users/asus/.cargo/bin/windres.exe"
+      - "C:/Users/asus/.cargo/bin/windres"
+      - "C:/Users/asus/.local/bin/windres.com"
+      - "C:/Users/asus/.local/bin/windres.exe"
+      - "C:/Users/asus/.local/bin/windres"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/windres.com"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/windres.exe"
+      - "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/windres"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/windres.com"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/windres.exe"
+      - "C:/Users/asus/AppData/Local/GitHubCopilotCLI/windres"
+      - "C:/Users/asus/AppData/Local/Unity/bin/windres.com"
+      - "C:/Users/asus/AppData/Local/Unity/bin/windres.exe"
+      - "C:/Users/asus/AppData/Local/Unity/bin/windres"
+      - "C:/Users/asus/.dotnet/tools/windres.com"
+      - "C:/Users/asus/.dotnet/tools/windres.exe"
+      - "C:/Users/asus/.dotnet/tools/windres"
+      - "C:/Users/asus/AppData/Local/Python/bin/windres.com"
+      - "C:/Users/asus/AppData/Local/Python/bin/windres.exe"
+      - "C:/Users/asus/AppData/Local/Python/bin/windres"
+      - "D:/AldiNugraha/VS project/flutter/bin/windres.com"
+      - "D:/AldiNugraha/VS project/flutter/bin/windres.exe"
+      - "D:/AldiNugraha/VS project/flutter/bin/windres"
+      - "C:/Users/asus/AppData/Roaming/npm/windres.com"
+      - "C:/Users/asus/AppData/Roaming/npm/windres.exe"
+      - "C:/Users/asus/AppData/Roaming/npm/windres"
+      - "D:/.cargo/bin/windres.com"
+      - "D:/.cargo/bin/windres.exe"
+      - "D:/.cargo/bin/windres"
+      - "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/windres.com"
+    found: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/windres.exe"
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/BedwarsPC"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "D:/LOLA ELVINA/CMake"
+        - "C:/Program Files (x86)/BedwarsPC"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerABI.cmake:123 (try_compile)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b"
+      binary: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_CXX_STDLIB_MODULES_JSON: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: false
+      stdout: |
+        Change Dir: 'C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b'
+        
+        Run Build Command(s): "D:/LOLA ELVINA/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe -f Makefile cmTC_9d891/fast
+        C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9d891.dir\\build.make CMakeFiles/cmTC_9d891.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b'
+        Building CXX object CMakeFiles/cmTC_9d891.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\LOLA ELVINA\\CMake\\share\\cmake-4.5\\Modules\\CMakeCXXCompilerABI.cpp"
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe
+        OFFLOAD_TARGET_NAMES=nvptx-none
+        Target: x86_64-w64-mingw32
+        Configured with: ../configure --prefix=/D/Temp/_/inst_gcc-16.2.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3' --with-tune=generic --enable-checking=release --enable-threads=posix --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-mpfr=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-gmp=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-isl=/d/Prog/winlibs_staging_ucrt/custombuilt64 --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/D/Temp/_/gcc-16.2.0/build_mingw/mingw-w64 CFLAGS='-I/d/Prog/winlibs_staging_ucrt/custombuilt64/include/libdl-win32   -march=nocona -msahf -mtune=generic -O2 -Wno-error=format' CXXFLAGS='-Wno-int-conversion  -march=nocona -msahf -mtune=generic -O2' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase -Wl,--high-entropy-va -Wl,--nxcompat -Wl,--tsaware' LD=/d/Prog/winlibs_staging_ucrt/custombuilt64/share/binutils/bin/ld.exe
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 16.2.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\'
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT D:\\LOLA ELVINA\\CMake\\share\\cmake-4.5\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_9d891.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\asus\\AppData\\Local\\Temp\\ccc9GhSb.s
+        GNU C++20 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) version 16.2.0 (x86_64-w64-mingw32)
+        	compiled by GNU C version 16.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.28-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0"
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32"
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward"
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/include"
+        ignoring nonexistent directory "D:/Temp/_/inst_gcc-16.2.0/share/gcc/include"
+        ignoring nonexistent directory "/D/Temp/_/inst_gcc-16.2.0/share/gcc/include"
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed"
+        ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include"
+        ignoring nonexistent directory "/mingw/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include
+        End of search list.
+        Compiler executable checksum: 444861d4cb08fde927369a9f8b0c420c
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\'
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\asus\\AppData\\Local\\Temp\\ccc9GhSb.s
+        GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r3) 2.47.20260726
+        COMPILER_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_9d891.exe
+        "D:\\LOLA ELVINA\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9d891.dir\\link.txt --verbose=1
+        Using built-in specs.
+        COLLECT_GCC=C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe
+        COLLECT_LTO_WRAPPER=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe
+        OFFLOAD_TARGET_NAMES=nvptx-none
+        Target: x86_64-w64-mingw32
+        Configured with: ../configure --prefix=/D/Temp/_/inst_gcc-16.2.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3' --with-tune=generic --enable-checking=release --enable-threads=posix --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-mpfr=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-gmp=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-isl=/d/Prog/winlibs_staging_ucrt/custombuilt64 --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/D/Temp/_/gcc-16.2.0/build_mingw/mingw-w64 CFLAGS='-I/d/Prog/winlibs_staging_ucrt/custombuilt64/include/libdl-win32   -march=nocona -msahf -mtune=generic -O2 -Wno-error=format' CXXFLAGS='-Wno-int-conversion  -march=nocona -msahf -mtune=generic -O2' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase -Wl,--high-entropy-va -Wl,--nxcompat -Wl,--tsaware' LD=/d/Prog/winlibs_staging_ucrt/custombuilt64/share/binutils/bin/ld.exe
+        Thread model: posix
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 16.2.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 
+        COMPILER_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/
+        LIBRARY_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d891.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9d891.'
+         C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        collect2 version 16.2.0
+        C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o
+        GNU ld (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r3) 2.47.20260726
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d891.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9d891.'
+        "D:\\LOLA ELVINA\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_9d891.dir/objects.a
+        C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_9d891.dir/objects.a @CMakeFiles\\cmTC_9d891.dir\\objects1.rsp
+        C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a -Wl,--no-whole-archive -o cmTC_9d891.exe -Wl,--out-implib,libcmTC_9d891.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerABI.cmake:255 (message)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed]
+          add: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include]
+        end of search list found
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0/x86_64-w64-mingw32]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0/backward]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed]
+        collapse include dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/include]
+        implicit include dirs: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0/x86_64-w64-mingw32;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include/c++/16.2.0/backward;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/include;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerABI.cmake:291 (message)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)(\\.exe)?"?( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b']
+        ignore line: []
+        ignore line: [Run Build Command(s): "D:/LOLA ELVINA/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe -f Makefile cmTC_9d891/fast]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_9d891.dir\\build.make CMakeFiles/cmTC_9d891.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/asus/Downloads/vs code/build/CMakeFiles/CMakeScratch/TryCompile-2q9r1b']
+        ignore line: [Building CXX object CMakeFiles/cmTC_9d891.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\LOLA ELVINA\\CMake\\share\\cmake-4.5\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe]
+        ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../configure --prefix=/D/Temp/_/inst_gcc-16.2.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3' --with-tune=generic --enable-checking=release --enable-threads=posix --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-mpfr=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-gmp=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-isl=/d/Prog/winlibs_staging_ucrt/custombuilt64 --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/D/Temp/_/gcc-16.2.0/build_mingw/mingw-w64 CFLAGS='-I/d/Prog/winlibs_staging_ucrt/custombuilt64/include/libdl-win32   -march=nocona -msahf -mtune=generic -O2 -Wno-error=format' CXXFLAGS='-Wno-int-conversion  -march=nocona -msahf -mtune=generic -O2' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase -Wl,--high-entropy-va -Wl,--nxcompat -Wl,--tsaware' LD=/d/Prog/winlibs_staging_ucrt/custombuilt64/share/binutils/bin/ld.exe]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 16.2.0 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r3) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\']
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/cc1plus.exe -quiet -v -iprefix C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/ -D_REENTRANT D:\\LOLA ELVINA\\CMake\\share\\cmake-4.5\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_9d891.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\asus\\AppData\\Local\\Temp\\ccc9GhSb.s]
+        ignore line: [GNU C++20 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r3) version 16.2.0 (x86_64-w64-mingw32)]
+        ignore line: [	compiled by GNU C version 16.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.28-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0"]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32"]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward"]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/include"]
+        ignore line: [ignoring nonexistent directory "D:/Temp/_/inst_gcc-16.2.0/share/gcc/include"]
+        ignore line: [ignoring nonexistent directory "/D/Temp/_/inst_gcc-16.2.0/share/gcc/include"]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include"]
+        ignore line: [ignoring nonexistent directory "/mingw/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/x86_64-w64-mingw32]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include/c++/16.2.0/backward]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../include]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed]
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/include]
+        ignore line: [End of search list.]
+        ignore line: [Compiler executable checksum: 444861d4cb08fde927369a9f8b0c420c]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\']
+        ignore line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\asus\\AppData\\Local\\Temp\\ccc9GhSb.s]
+        ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64  built by Brecht Sanders  r3) 2.47.20260726]
+        ignore line: [COMPILER_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_9d891.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_9d891.exe]
+        ignore line: ["D:\\LOLA ELVINA\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_9d891.dir\\link.txt --verbose=1]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin\\g++.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe]
+        ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
+        ignore line: [Target: x86_64-w64-mingw32]
+        ignore line: [Configured with: ../configure --prefix=/D/Temp/_/inst_gcc-16.2.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3' --with-tune=generic --enable-checking=release --enable-threads=posix --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-mpfr=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-gmp=/d/Prog/winlibs_staging_ucrt/custombuilt64 --with-isl=/d/Prog/winlibs_staging_ucrt/custombuilt64 --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --enable-libgdiagnostics --with-libiconv --with-system-zlib --with-build-sysroot=/D/Temp/_/gcc-16.2.0/build_mingw/mingw-w64 CFLAGS='-I/d/Prog/winlibs_staging_ucrt/custombuilt64/include/libdl-win32   -march=nocona -msahf -mtune=generic -O2 -Wno-error=format' CXXFLAGS='-Wno-int-conversion  -march=nocona -msahf -mtune=generic -O2' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase -Wl,--high-entropy-va -Wl,--nxcompat -Wl,--tsaware' LD=/d/Prog/winlibs_staging_ucrt/custombuilt64/share/binutils/bin/ld.exe]
+        ignore line: [Thread model: posix]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 16.2.0 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r3) ]
+        ignore line: [COMPILER_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/]
+        ignore line: [LIBRARY_PATH=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_9d891.exe' '-foffload-options=-l_GCC_stdc++' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_9d891.']
+        link line: [ C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore, skip following value
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll] ==> skip value of -plugin
+          arg [-plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
+          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
+          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
+          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
+          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
+          arg [-m] ==> ignore
+          arg [i386pep] ==> ignore
+          arg [-Bdynamic] ==> search dynamic
+          arg [-o] ==> ignore, skip following value
+          arg [cmTC_9d891.exe] ==> skip value of -o
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib]
+          arg [-LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..]
+          arg [-v] ==> ignore
+          arg [--whole-archive] ==> ignore
+          arg [CMakeFiles\\cmTC_9d891.dir/objects.a] ==> ignore
+          arg [--no-whole-archive] ==> ignore
+          arg [--out-implib] ==> ignore
+          arg [libcmTC_9d891.dll.a] ==> ignore
+          arg [--major-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [--minor-image-version] ==> ignore
+          arg [0] ==> ignore
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lpthread] ==> lib [pthread]
+          arg [-ladvapi32] ==> lib [advapi32]
+          arg [-lshell32] ==> lib [shell32]
+          arg [-luser32] ==> lib [user32]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [-lmingw32] ==> lib [mingw32]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lmingwex] ==> lib [mingwex]
+          arg [-lmsvcrt] ==> lib [msvcrt]
+          arg [-lkernel32] ==> lib [kernel32]
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o]
+          arg [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        ignore line: [collect2 version 16.2.0]
+        link line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
+        link line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        ignore line: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/liblto_plugin.dll -plugin-opt=C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/16.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\asus\\AppData\\Local\\Temp\\cchnQwFu.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_9d891.exe C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0 -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib -LC:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_9d891.dir/objects.a --no-whole-archive --out-implib libcmTC_9d891.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        linker tool for 'CXX': C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/bin/ld.exe -m;i386pep
+        remove lib [msvcrt]
+        remove lib [msvcrt]
+        collapse obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib/crt2.o]
+        collapse obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o]
+        collapse obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib/default-manifest.o] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib/default-manifest.o]
+        collapse obj [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../lib] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../../../x86_64-w64-mingw32/lib] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib]
+        collapse library dir [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/16.2.0/../../..] ==> [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib]
+        implicit libs: [stdc++;mingw32;gcc_s;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc_s;gcc;mingwex;kernel32]
+        implicit objs: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib/crt2.o;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/crtbegin.o;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib/default-manifest.o;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/crtend.o]
+        implicit dirs: [C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/gcc;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/lib;C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/Internal/CMakeDetermineLinkerId.cmake:41 (message)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeDetermineCompilerABI.cmake:337 (cmake_determine_linker_id)"
+      - "D:/LOLA ELVINA/CMake/share/cmake-4.5/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/x86_64-w64-mingw32/bin/ld.exe" "-v"
+      GNU ld (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r3) 2.47.20260726
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:8 (find_package)"
+    name: "SDL2"
+    configs:
+      -
+        filename: "SDL2.cps"
+        kind: "cps"
+      -
+        filename: "sdl2.cps"
+        kind: "cps"
+      -
+        filename: "SDL2Config.cmake"
+        kind: "cmake"
+      -
+        filename: "sdl2-config.cmake"
+        kind: "cmake"
+    version_request:
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "SDL2"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/SDL2/SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/SDL2.cps"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/SDL2/SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/sdl2.cps"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/SDL2/SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/SDL2Config.cmake"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/SDL2/SDL2-2.32.10/x86_64-w64-mingw32/lib/cmake/SDL2/sdl2-config.cmake"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/Downloads/vs code/build/CMakeFiles/pkgRedirects/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/vscode-extensions/vadimcn.vscode-lldb-1.12.3/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Common Files/Oracle/Java/javapath/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/Common Files/Oracle/Java/java8path/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/dotnet/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/CMake/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/Git/cmd/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/LOLA ELVINA/nodejs/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/WSL/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.cargo/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/.local/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WindowsApps/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/GitHubCopilotCLI/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Unity/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Python/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/AldiNugraha/VS project/flutter/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/npm/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Local/Microsoft/WinGet/Packages/BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe/mingw64/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "D:/VisualStudio/Microsoft VS Code/bin/copilot-shim/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Users/asus/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/SDL2Config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/sdl2-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/lib/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/SDL2.cps"
+        mode: "cps"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/share/cps/sdl2.cps"
+        mode: "cps"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "d:\\vscode-extensions\\vadimcn.vscode-lldb-1.12.3\\bin"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "D:\\LOLA ELVINA\\CMake\\bin"
+        - "D:\\LOLA ELVINA\\Git\\cmd"
+        - "D:\\LOLA ELVINA\\nodejs\\"
+        - "C:\\Program Files\\WSL\\"
+        - "C:\\Users\\asus\\.cargo\\bin"
+        - "C:\\Users\\asus\\.local\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\asus\\AppData\\Local\\GitHubCopilotCLI\\"
+        - "C:\\Users\\asus\\AppData\\Local\\Unity\\bin"
+        - "C:\\Users\\asus\\.dotnet\\tools"
+        - "C:\\Users\\asus\\AppData\\Local\\Python\\bin"
+        - "D:\\AldiNugraha\\VS project\\flutter\\bin"
+        - "C:\\Users\\asus\\AppData\\Roaming\\npm"
+        - "D:\\.cargo\\bin"
+        - "C:\\Users\\asus\\AppData\\Local\\Microsoft\\WinGet\\Packages\\BrechtSanders.WinLibs.POSIX.UCRT_Microsoft.Winget.Source_8wekyb3d8bbwe\\mingw64\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+        - "c:\\Users\\asus\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+        - "D:\\VisualStudio\\Microsoft VS Code\\bin\\copilot-shim"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/BedwarsPC"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "D:/LOLA ELVINA/CMake"
+        - "C:/Program Files (x86)/BedwarsPC"
+...
